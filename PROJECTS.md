@@ -15,11 +15,12 @@ These repositories include an MIT license.
 - [PacketScope](https://github.com/123bingowinnn/packetscope) — a network measurement and diagnostics course project.
 - [CPS4801 final project](https://github.com/123bingowinnn/CPS4801_FinalProject) — a ResNet50 binary classification project.
 
-## Experiments and collaborations
+## Hackathons and collaborations
 
+- [Touch Drama · 触手可剧](https://bingosun.vercel.app/projects/chushou-keju) — interactive short-drama team prototype; National Third Prize at the Douyin AI Innovators Program Hackathon.
 - [Another Me](https://github.com/123bingowinnn/another-me) — a pixel-art cat companion webpage.
 - [Death education hackathon](https://github.com/123bingowinnn/death-education-hackathon) — a four-person hackathon project.
-- [Wenzhou hackathon](https://github.com/123bingowinnn/Hackthon) — hackathon project repository.
+- [Wenzhou hackathon](https://github.com/123bingowinnn/Hackthon) — Another Me mobile web team prototype.
 
 ## Personal website
 
