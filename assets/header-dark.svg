@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Bingo, Xubin Sun. Product thinking, working code.">
+<rect width="1200" height="300" rx="18" fill="#101c17"/>
+<g fill="none" stroke="#2f4438" stroke-width="1"><circle cx="1020" cy="148" r="113"/><circle cx="1020" cy="148" r="78"/><circle cx="1020" cy="148" r="42"/><path d="M870 148h300M1020 12v272"/></g>
+<circle cx="1082" cy="100" r="9" fill="#a9d59d"/>
+<text x="52" y="52" font-family="monospace" font-size="13" letter-spacing="3" fill="#a5b8a9">XUBIN SUN / 孙徐斌</text>
+<text x="47" y="162" font-family="Georgia,serif" font-size="104" fill="#eef3e9">Hello, I'm Bingo.</text>
+<text x="54" y="211" font-family="Arial,sans-serif" font-size="24" fill="#a5b8a9">Product thinking, working code.</text>
+<path d="M54 250h740" stroke="#2f4438"/>
+<text x="54" y="276" font-family="monospace" font-size="12" letter-spacing="2" fill="#a5b8a9">AI PRODUCTS / DEVELOPER TOOLS / COMPUTER SCIENCE</text>
+</svg>
