@@ -1,20 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Bingo / Xubin Sun — Product thinking, working code." src="assets/header-light.svg" width="100%">
-</picture>
+# Hi, I’m Bingo.
 
-<p align="center">
-  <a href="https://bingosun.vercel.app/">Personal website · 个人网站</a>
-  &nbsp; / &nbsp;
-  <a href="#selected-work">Selected work</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/123bingowinnn?tab=repositories&amp;type=public">Public repositories</a>
-</p>
+孙徐斌 · Xubin Sun · CS master’s student at Yale
 
-I'm **Xubin (Bingo) Sun / 孙徐斌**, a Computer Science master's student at Yale. I’m interested in AI products and the small interaction choices that make them useful. I like taking an idea far enough that someone can try it.
+I build small apps and join hackathons with friends. Recent projects include a macOS todo app, an interactive short drama, and a tool for keeping track of what’s in the fridge.
 
-Some of that work happens at hackathons with friends. Some starts with something I wish I had on my own computer.
+[bingosun.vercel.app ↗](https://bingosun.vercel.app/) · [Projects](#selected-work) · [Hackathons & recognition](#hackathons--recognition)
 
 ## Selected work
 
