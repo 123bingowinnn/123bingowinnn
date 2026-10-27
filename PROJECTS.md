@@ -1,3 +1,5 @@
+**English** · [Chinese](PROJECTS.zh-CN.md)
+
 # Public project directory
 
 [Profile](https://github.com/123bingowinnn) · [Personal website](https://bingosun.vercel.app/)
@@ -17,14 +19,14 @@ These repositories include an MIT license.
 
 ## Hackathons and collaborations
 
-- [Touch Drama · 触手可剧](https://bingosun.vercel.app/projects/chushou-keju) — interactive short-drama team prototype; National Third Prize at the Douyin AI Innovators Program Hackathon.
+- [Touch Drama](https://bingosun.vercel.app/projects/chushou-keju) — interactive short-drama team prototype; National Third Prize at the Douyin AI Innovators Program Hackathon.
 - [Another Me](https://github.com/123bingowinnn/another-me) — a pixel-art cat companion webpage.
 - [Death education hackathon](https://github.com/123bingowinnn/death-education-hackathon) — a four-person hackathon project.
 - [Wenzhou hackathon](https://github.com/123bingowinnn/Hackthon) — Another Me mobile web team prototype.
 
 ## Everyday tools
 
-- [What’s in My Fridge · 冰箱里面有什么](https://fridge-clear.vercel.app/) — a web app for personal food inventory and expiry tracking. Online demo; source repository is private.
+- [What’s in My Fridge](https://fridge-clear.vercel.app/) — a web app for personal food inventory and expiry tracking. Online demo; source repository is private.
 
 ## Personal website
 
