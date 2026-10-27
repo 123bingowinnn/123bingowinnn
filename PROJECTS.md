@@ -22,6 +22,10 @@ These repositories include an MIT license.
 - [Death education hackathon](https://github.com/123bingowinnn/death-education-hackathon) — a four-person hackathon project.
 - [Wenzhou hackathon](https://github.com/123bingowinnn/Hackthon) — Another Me mobile web team prototype.
 
+## Everyday tools
+
+- [What’s in My Fridge · 冰箱里面有什么](https://fridge-clear.vercel.app/) — a web app for personal food inventory and expiry tracking. Online demo; source repository is private.
+
 ## Personal website
 
 - [Bingo](https://github.com/123bingowinnn/Bingo) — source for my portfolio. [Visit the website](https://bingosun.vercel.app/).

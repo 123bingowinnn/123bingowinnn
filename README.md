@@ -44,6 +44,12 @@ A macOS app for capturing tasks without leaving what you’re doing. Type a thou
 
 [Explore the code](https://github.com/123bingowinnn/UnNote)
 
+### What’s in My Fridge · 冰箱里面有什么
+
+A web app for keeping track of ingredients and expiry dates. I built it around a simple question: what do I already have, and what should I use next? Personal food inventory and expiry tracking help make everyday kitchen decisions easier.
+
+[Try the app](https://fridge-clear.vercel.app/)
+
 ### Vibe Paper
 
 A local workspace for writing LaTeX papers alongside experiment code. Coding agents can work with the actual files and results, while a local compile and PDF preview loop keeps the paper close to the experiment.
@@ -80,6 +86,8 @@ Other public projects include [PacketScope](https://github.com/123bingowinnn/pac
 **Another Me**：温州黑客松团队原型，从情绪内容出发，经过孵化、数字陪伴和树洞共鸣，探索人与情绪分身的互动。[项目代码](https://github.com/123bingowinnn/Hackthon)
 
 **UnNote**：我设计并开发的 macOS AI 待办工具，通过文字、语音或截图捕获任务，串联原生界面、AI 指令路由与本地存储。[代码](https://github.com/123bingowinnn/UnNote)
+
+**冰箱里面有什么**：我设计并开发的食材库存与保质期管理 Web 应用，帮助用户看清冰箱里已有的食材、记录到期时间，减少重复购买和遗忘。[在线体验](https://fridge-clear.vercel.app/)
 
 **Vibe Paper**：把论文写作放进实验项目里的本地 LaTeX 工作区，让 coding agent 结合代码和结果写作，并通过本地编译预览 PDF。[代码](https://github.com/123bingowinnn/vibe_paper)
 
