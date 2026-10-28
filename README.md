@@ -1,52 +1,57 @@
-**English** · [Chinese](README.zh-CN.md)
+<p align="right"><strong>English</strong> / <a href="README.zh-CN.md">Chinese</a></p>
 
-# Hi, I’m Bingo.
+# Bingo / Xubin Sun
 
-Xubin Sun · CS master’s student at Yale
+CS master’s student at Yale. I make small tools for everyday use and build hackathon projects with friends.
 
-I build small apps and join hackathons with friends. Recent projects include a macOS todo app, an interactive short drama, and a tool for keeping track of what’s in the fridge.
+[Website ↗](https://bingosun.vercel.app/) &nbsp; · &nbsp; [All public projects](PROJECTS.md)
 
-[bingosun.vercel.app ↗](https://bingosun.vercel.app/) · [Projects](#selected-work) · [Hackathons & recognition](#hackathons--recognition)
+## Selected projects
 
-## Selected work
-
-### Touch Drama
-
-A first-person interactive short-drama prototype where viewers act inside the scene: tapping, holding, or dragging to move the story forward. Our team also turned the AI script, storyboard, and video workflow into reusable production Skills.
-
-The project received **National Third Prize and RMB 30,000 in team prize money** at the Douyin AI Innovators Program Hackathon.
-
-[Project story and demo](https://bingosun.vercel.app/projects/chushou-keju)
-
-### Guicheng
-
-A four-person hackathon project about life, loss, and the practical work around saying goodbye. We built a prototype that helps relatives organize next steps, required documents, and progress, with city-specific information and sources they can check.
-
-[Explore the team’s code](https://github.com/123bingowinnn/death-education-hackathon)
-
-### Another Me
-
-A team prototype built for the Wenzhou hackathon. An emotion becomes an egg, then a digital companion, with a shared space for people who feel something similar. We explored the flow across a mobile web experience, from discovering a mood to hatching and sharing a companion.
-
-[Hackathon project](https://github.com/123bingowinnn/Hackthon) · [Pixel-cat experiment](https://github.com/123bingowinnn/another-me)
-
-### UnNote
-
-A macOS app for capturing tasks without leaving what you’re doing. Type a thought, speak, or take a screenshot; the app turns it into a structured todo. I designed and built the capture workflow, native interface, and AI command routing, with local storage and reversible actions.
-
-[Explore the code](https://github.com/123bingowinnn/UnNote)
-
-### What’s in My Fridge
-
-A web app for keeping track of ingredients and expiry dates. I built it around a simple question: what do I already have, and what should I use next? Personal food inventory and expiry tracking help make everyday kitchen decisions easier.
-
-[Try the app](https://fridge-clear.vercel.app/)
-
-### Vibe Paper
-
-A local workspace for writing LaTeX papers alongside experiment code. Coding agents can work with the actual files and results, while a local compile and PDF preview loop keeps the paper close to the experiment.
-
-[Explore the code](https://github.com/123bingowinnn/vibe_paper)
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>UnNote</h3>
+<p><sub>macOS · Swift</sub></p>
+<p>Capture a task by typing, speaking, or taking a screenshot. Stored locally, with actions you can undo.</p>
+<p><a href="https://github.com/123bingowinnn/UnNote">Code ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>Touch Drama</h3>
+<p><sub>Interactive storytelling · Team project</sub></p>
+<p>Tap, hold, or drag to change what happens in a short drama. National Third Prize at ByteDance’s AI hackathon.</p>
+<p><a href="https://bingosun.vercel.app/projects/chushou-keju">Story & demo ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Vibe Paper</h3>
+<p><sub>Research tools · LaTeX</sub></p>
+<p>Write papers next to the experiment code. A local workspace with agent access, compilation, and PDF previews.</p>
+<p><a href="https://github.com/123bingowinnn/vibe_paper">Code ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>What’s in My Fridge</h3>
+<p><sub>Everyday tools · Web</sub></p>
+<p>What do I already have, and what should I use next? A small app for ingredients and expiry dates.</p>
+<p><a href="https://fridge-clear.vercel.app/">Try it ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Guicheng</h3>
+<p><sub>Hackathon · Team project</sub></p>
+<p>A guide to the practical tasks after losing a loved one: next steps, documents, and progress. Built in a team of four.</p>
+<p><a href="https://github.com/123bingowinnn/death-education-hackathon">Team code ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>Another Me</h3>
+<p><sub>Hackathon · Team project</sub></p>
+<p>Turn a feeling into an egg, hatch a digital companion, and find people who feel something similar.</p>
+<p><a href="https://github.com/123bingowinnn/Hackthon">Team code ↗</a> · <a href="https://github.com/123bingowinnn/another-me">Pixel-cat experiment</a></p>
+</td>
+</tr>
+</table>
 
 ## Hackathons & recognition
 
@@ -59,5 +64,3 @@ A local workspace for writing LaTeX papers alongside experiment code. Coding age
 I’ve coauthored research on [LLM negative rejection](https://doi.org/10.1007/s44443-025-00334-6), [robust medical image classification](https://doi.org/10.1117/12.3044867), and [medical image dataset distillation](https://doi.org/10.1117/12.3045706).
 
 Other public projects include [PacketScope](https://github.com/123bingowinnn/packetscope), a reproducible network measurement toolkit, and my [campus e-bike detection capstone](https://github.com/123bingowinnn/campus-ebike-multi-violation-detection).
-
-[Personal website](https://bingosun.vercel.app/) · [Public project directory](PROJECTS.md)
