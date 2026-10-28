@@ -1,57 +1,50 @@
-<p align="right"><strong>English</strong> / <a href="README.zh-CN.md">Chinese</a></p>
+[Chinese](README.zh-CN.md)
 
-# Bingo / Xubin Sun
+# Hi, I’m Bingo.
 
-CS master’s student at Yale. I make small tools for everyday use and build hackathon projects with friends.
+I’m Xubin Sun, a CS master’s student at Yale. I’m interested in **AI products and how people use them**. I like building things I can use myself, and working with friends on ideas at hackathons.
 
-[Website ↗](https://bingosun.vercel.app/) &nbsp; · &nbsp; [All public projects](PROJECTS.md)
+[My website](https://bingosun.vercel.app/) · [All public projects](PROJECTS.md)
 
-## Selected projects
+## A few things I’ve built
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>UnNote</h3>
-<p><sub>macOS · Swift</sub></p>
-<p>Capture a task by typing, speaking, or taking a screenshot. Stored locally, with actions you can undo.</p>
-<p><a href="https://github.com/123bingowinnn/UnNote">Code ↗</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>Touch Drama</h3>
-<p><sub>Interactive storytelling · Team project</sub></p>
-<p>Tap, hold, or drag to change what happens in a short drama. National Third Prize at ByteDance’s AI hackathon.</p>
-<p><a href="https://bingosun.vercel.app/projects/chushou-keju">Story & demo ↗</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>Vibe Paper</h3>
-<p><sub>Research tools · LaTeX</sub></p>
-<p>Write papers next to the experiment code. A local workspace with agent access, compilation, and PDF previews.</p>
-<p><a href="https://github.com/123bingowinnn/vibe_paper">Code ↗</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>What’s in My Fridge</h3>
-<p><sub>Everyday tools · Web</sub></p>
-<p>What do I already have, and what should I use next? A small app for ingredients and expiry dates.</p>
-<p><a href="https://fridge-clear.vercel.app/">Try it ↗</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>Guicheng</h3>
-<p><sub>Hackathon · Team project</sub></p>
-<p>A guide to the practical tasks after losing a loved one: next steps, documents, and progress. Built in a team of four.</p>
-<p><a href="https://github.com/123bingowinnn/death-education-hackathon">Team code ↗</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>Another Me</h3>
-<p><sub>Hackathon · Team project</sub></p>
-<p>Turn a feeling into an egg, hatch a digital companion, and find people who feel something similar.</p>
-<p><a href="https://github.com/123bingowinnn/Hackthon">Team code ↗</a> · <a href="https://github.com/123bingowinnn/another-me">Pixel-cat experiment</a></p>
-</td>
-</tr>
-</table>
+### Touch Drama
+
+A short drama you can take part in. Tap, hold, or drag inside a scene to move the story forward. We built the prototype as a team, along with a reusable workflow for AI scripts, storyboards, and video.
+
+[See the project and demo](https://bingosun.vercel.app/projects/chushou-keju)
+
+### UnNote
+
+A macOS app for the tasks that come to mind while you’re doing something else. Type a thought, say it aloud, or take a screenshot to turn it into a todo.
+
+*I designed and built the capture workflow, native interface, and AI command routing.*
+
+[Explore the code](https://github.com/123bingowinnn/UnNote)
+
+### What’s in My Fridge
+
+A small app I built around a daily question: what’s already in the fridge, and what should I eat first? It keeps track of ingredients and expiry dates.
+
+[Try the app](https://fridge-clear.vercel.app/)
+
+### Guicheng
+
+A prototype to help families with the practical tasks after losing someone. Our four-person team worked on a guide to the next steps, required documents, and progress, with city-specific information and sources.
+
+[Explore the team’s code](https://github.com/123bingowinnn/death-education-hackathon)
+
+### Another Me
+
+An emotion becomes an egg, then a digital companion. Built with a team at the Wenzhou hackathon, exploring how people might share what they feel and find others with similar feelings.
+
+[Explore the team’s code](https://github.com/123bingowinnn/Hackthon) · [Pixel-cat experiment](https://github.com/123bingowinnn/another-me)
+
+### Vibe Paper
+
+A local workspace that keeps a LaTeX paper beside its experiment code. Coding agents can work with the actual files and results, with compilation and PDF previews in the same workflow.
+
+[Explore the code](https://github.com/123bingowinnn/vibe_paper)
 
 ## Hackathons & recognition
 

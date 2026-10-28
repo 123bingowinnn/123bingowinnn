@@ -1,57 +1,50 @@
-<p align="right"><a href="README.md">English</a> / <strong>中文</strong></p>
+[English](README.md)
 
-# Bingo / 孙徐斌
+# 你好，我是 Bingo。
 
-耶鲁大学计算机科学硕士在读。我做日常会用到的小工具，也和朋友一起参加黑客松。
+我是孙徐斌，目前在耶鲁大学读计算机科学硕士。我关注 **AI 产品，以及人们如何使用它们**。喜欢做一些自己用得上的东西，也和朋友一起在黑客松里尝试新想法。
 
-[个人网站 ↗](https://bingosun.vercel.app/) &nbsp; · &nbsp; [公开项目目录](PROJECTS.zh-CN.md)
+[我的网站](https://bingosun.vercel.app/) · [全部公开项目](PROJECTS.zh-CN.md)
 
-## 精选项目
+## 最近做的一些东西
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>UnNote</h3>
-<p><sub>macOS · Swift</sub></p>
-<p>输入、语音或截图，随手记录待办。数据保存在本地，操作可以撤销。</p>
-<p><a href="https://github.com/123bingowinnn/UnNote">代码 ↗</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>触手可剧</h3>
-<p><sub>互动叙事 · 团队项目</sub></p>
-<p>通过点击、长按和拖动推动短剧剧情。获得字节跳动旗下抖音 AI 黑客松全国三等奖。</p>
-<p><a href="https://bingosun.vercel.app/projects/chushou-keju">介绍与演示 ↗</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>Vibe Paper</h3>
-<p><sub>科研工具 · LaTeX</sub></p>
-<p>把论文写作放在实验代码旁边。在本地工作区中使用 agent、编译 LaTeX 并预览 PDF。</p>
-<p><a href="https://github.com/123bingowinnn/vibe_paper">代码 ↗</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>冰箱里面有什么</h3>
-<p><sub>日常工具 · Web</sub></p>
-<p>冰箱里有什么，接下来该先吃什么？用一个小应用记录食材和保质期。</p>
-<p><a href="https://fridge-clear.vercel.app/">在线体验 ↗</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>归程</h3>
-<p><sub>黑客松 · 团队项目</sub></p>
-<p>帮助家属整理告别后的办理步骤、所需材料和进度。由四人团队共同完成。</p>
-<p><a href="https://github.com/123bingowinnn/death-education-hackathon">团队代码 ↗</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>Another Me</h3>
-<p><sub>黑客松 · 团队项目</sub></p>
-<p>把情绪变成一颗蛋，孵化成数字伙伴，也遇见有相似感受的人。</p>
-<p><a href="https://github.com/123bingowinnn/Hackthon">团队代码 ↗</a> · <a href="https://github.com/123bingowinnn/another-me">像素小猫实验</a></p>
-</td>
-</tr>
-</table>
+### 触手可剧
+
+一部可以参与其中的短剧。通过场景内的点击、长按或拖动推动剧情。我们一起完成了原型，也把 AI 剧本、分镜和视频生成整理成可复用的制作流程。
+
+[项目介绍与演示](https://bingosun.vercel.app/projects/chushou-keju)
+
+### UnNote
+
+做着别的事时，突然想起一个待办，可以随手记下来。这个 macOS 应用能把输入的想法、语音或截图整理成任务。
+
+*我负责设计和开发捕获流程、原生界面与 AI 指令路由。*
+
+[查看代码](https://github.com/123bingowinnn/UnNote)
+
+### 冰箱里面有什么
+
+围绕一个日常问题做的小应用：冰箱里已经有什么，应该先吃什么？用它记录食材和保质期。
+
+[在线体验](https://fridge-clear.vercel.app/)
+
+### 归程
+
+帮助家属处理失去亲人后实际事务的原型。我们四个人一起整理办理步骤、所需材料和进度，并提供具体城市的信息与可核对的来源。
+
+[查看团队代码](https://github.com/123bingowinnn/death-education-hackathon)
+
+### Another Me
+
+让情绪变成一颗蛋，再孵化成数字伙伴。这是和队友在温州黑客松完成的项目，尝试让人们分享当下的感受，遇见有相似心情的人。
+
+[查看团队代码](https://github.com/123bingowinnn/Hackthon) · [像素小猫实验](https://github.com/123bingowinnn/another-me)
+
+### Vibe Paper
+
+把 LaTeX 论文和实验代码放在一起的本地工作区。Coding agent 可以直接结合文件和实验结果工作，在同一个流程里完成编译和 PDF 预览。
+
+[查看代码](https://github.com/123bingowinnn/vibe_paper)
 
 ## 黑客松与成果
 
